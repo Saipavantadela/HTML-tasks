@@ -1,0 +1,12 @@
+*{
+    margin: 5px;
+    padding: 1px;
+}
+td{
+    background-color: orchid;
+    color:azure;
+}
+button{
+    background-color: blueviolet;
+    color: aliceblue;
+}
